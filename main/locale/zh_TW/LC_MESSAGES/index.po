@@ -23,39 +23,39 @@ msgstr ""
 
 #: ../../../index.rst:64
 msgid "Start here"
-msgstr ""
+msgstr "從這裡開始"
 
 #: ../../../index.rst:78
 msgid "Tutorials"
-msgstr ""
+msgstr "教學"
 
 #: ../../../index.rst:78
 msgid "How-to guides"
-msgstr ""
+msgstr "操作指南"
 
 #: ../../../index.rst:78
 msgid "Reference"
-msgstr ""
+msgstr "參考"
 
 #: ../../../index.rst:78
 msgid "Explanation"
-msgstr ""
+msgstr "解釋"
 
 #: ../../../index.rst:78
 msgid "Workflow"
-msgstr ""
+msgstr "工作流程"
 
 #: ../../../index.rst:98
 msgid "Quality"
-msgstr ""
+msgstr "品質"
 
 #: ../../../index.rst:98
 msgid "Tutorials and how-to guides"
-msgstr ""
+msgstr "教學與操作指南"
 
 #: ../../../index.rst:98
 msgid "Reference and explanation"
-msgstr ""
+msgstr "參考與解釋"
 
 #: ../../../index.rst:98
 msgid "Complex hierarchies"
@@ -77,21 +77,21 @@ msgstr ""
 
 #: ../../../index.rst:19
 msgid "A systematic approach to technical documentation authoring."
-msgstr ""
+msgstr "一套系統化的技術文件撰寫方法。"
 
 #: ../../../index.rst:22
 msgid "Diátaxis is a way of thinking about and doing documentation."
-msgstr ""
+msgstr "Diátaxis 是一種看待與撰寫文件的思維與做法。"
 
 #: ../../../index.rst:26
 msgid ":doc:`Help translate Diátaxis <translation>` into your language."
-msgstr ""
+msgstr ":doc:`協助將 Diátaxis <translation> 翻譯`\\ 成您的語言。"
 
 #: ../../../index.rst:28
 msgid ""
 "It prescribes approaches to content, architecture and form that emerge from "
 "a systematic approach to understanding the needs of documentation users."
-msgstr ""
+msgstr "它規定了從系統性理解文件使用者需求中所衍生出的內容、架構與形式的方法。"
 
 #: ../../../index.rst:31
 msgid ""
@@ -101,6 +101,10 @@ msgid ""
 "that documentation should itself be organised around the structures of those "
 "needs."
 msgstr ""
+"Diátaxis 識別出四種不同的需求，以及四種對應的文件形式 — *教學（tutorials）"
+"*\\ 、\\ *操作指南（how-to guides）*\\ 、\\ *技術參考（technical reference）"
+"*\\ 與\\ *解釋（explanation）*\\ 。它將這些形式置於一個系統性關係中，並主張文"
+"件本身應圍繞這些需求的結構來組織。"
 
 #: ../../../index.rst:39
 msgid ""
@@ -113,6 +117,8 @@ msgid ""
 "Diátaxis solves problems related to documentation *content* (what to write), "
 "*style* (how to write it) and *architecture* (how to organise it)."
 msgstr ""
+"Diátaxis 解決與文件\\ *內容*\\ （要寫什麼）、\\ *風格*\\ （如何撰寫）與\\ *架"
+"構*\\ （如何組織）相關的問題。"
 
 #: ../../../index.rst:43
 msgid ""
@@ -147,13 +153,15 @@ msgstr ""
 msgid ""
 "Diátaxis is proven in practice. Its principles have been adopted "
 "successfully in hundreds of documentation projects."
-msgstr ""
+msgstr "Diátaxis 在實務上已被證明有效。其原則已在數百個文件專案中成功採用。"
 
 #: ../../../index.rst:117
 msgid ""
 "Diátaxis has allowed us to build a high-quality set of internal "
 "documentation that our users love, and our contributors love adding to."
 msgstr ""
+"Diátaxis 讓我們能建立一套高品質的內部文件，使用者喜愛，貢獻者也樂於持續新增內"
+"容。"
 
 #: ../../../index.rst:119
 msgid "Greg Frileux, `Vonage <https://vonage.com/>`_"

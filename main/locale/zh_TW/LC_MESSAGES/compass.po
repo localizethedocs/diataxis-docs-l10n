@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../../compass.rst:4
 msgid "The compass"
-msgstr ""
+msgstr "羅盤圖"
 
 #: ../../../compass.rst:10
 msgid ""
@@ -163,11 +163,11 @@ msgstr ""
 
 #: ../../../compass.rst:74
 msgid "Does the user need *x* or *y*?"
-msgstr ""
+msgstr "使用者需要的是 *x* 還是 *y*\\ ？"
 
 #: ../../../compass.rst:75
 msgid "Do I want to *x* or *y*?"
-msgstr ""
+msgstr "我想要 *x* 還是 *y*\\ ？"
 
 #: ../../../compass.rst:77
 msgid ""

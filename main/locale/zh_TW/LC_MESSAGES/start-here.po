@@ -62,7 +62,7 @@ msgstr ""
 
 #: ../../../start-here.rst:26
 msgid "Tutorials"
-msgstr ""
+msgstr "教學"
 
 #: ../../../start-here.rst:30
 msgid ":ref:`Tutorials in more detail <tutorials>`"
@@ -106,7 +106,7 @@ msgstr ""
 
 #: ../../../start-here.rst:43
 msgid "How-to guides"
-msgstr ""
+msgstr "操作指南"
 
 #: ../../../start-here.rst:47
 msgid ":ref:`How-to guides in more detail <how-to>`"
@@ -172,7 +172,7 @@ msgstr ""
 
 #: ../../../start-here.rst:73
 msgid "Explanation"
-msgstr ""
+msgstr "解釋"
 
 #: ../../../start-here.rst:77
 msgid ":ref:`Explanation in more detail <explanation>`"
@@ -247,7 +247,7 @@ msgstr ""
 
 #: ../../../start-here.rst:112
 msgid "The Diátaxis compass"
-msgstr ""
+msgstr "Diátaxis 羅盤圖"
 
 #: ../../../start-here.rst:114
 msgid "As you can see from the map:"

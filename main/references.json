@@ -13,22 +13,22 @@
     },
     "zh_CN" : 
     {
-      "branch" : "",
+      "branch" : "main",
       "commit" : 
       {
-        "date" : "",
-        "hash" : "",
-        "title" : ""
+        "date" : "2026-07-10 08:49:01 +0200",
+        "hash" : "855e9c13955386fdd4a0131bf664d3390dd79f34",
+        "title" : "Added translation notice"
       }
     },
     "zh_TW" : 
     {
-      "branch" : "",
+      "branch" : "main",
       "commit" : 
       {
-        "date" : "",
-        "hash" : "",
-        "title" : ""
+        "date" : "2026-07-10 08:49:01 +0200",
+        "hash" : "855e9c13955386fdd4a0131bf664d3390dd79f34",
+        "title" : "Added translation notice"
       }
     }
   },

@@ -101,19 +101,19 @@ msgstr ""
 
 #: ../../../map.rst:63
 msgid ":ref:`Tutorials <tutorials>`"
-msgstr ""
+msgstr ":ref:`教學 <tutorials>`"
 
 #: ../../../map.rst:64
 msgid ":ref:`How-to guides <how-to>`"
-msgstr ""
+msgstr ":ref:`操作指南 <how-to>`"
 
 #: ../../../map.rst:65
 msgid ":ref:`Reference <reference>`"
-msgstr ""
+msgstr ":ref:`參考 <reference>`"
 
 #: ../../../map.rst:66
 msgid ":ref:`Explanation <explanation>`"
-msgstr ""
+msgstr ":ref:`解釋 <explanation>`"
 
 #: ../../../map.rst:67
 msgid "what they do"

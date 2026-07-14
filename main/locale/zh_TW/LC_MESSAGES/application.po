@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../../application.rst:2
 msgid "Applying Diátaxis"
-msgstr ""
+msgstr "套用 Diátaxis"
 
 #: ../../../application.rst:5
 msgid ""
@@ -68,19 +68,19 @@ msgstr ""
 
 #: ../../../application.rst:24
 msgid ":doc:`tutorials` - learning-oriented experiences"
-msgstr ""
+msgstr ":doc:`tutorials` - 以學習為導向的體驗"
 
 #: ../../../application.rst:25
 msgid ":doc:`how-to-guides` - goal-oriented directions"
-msgstr ""
+msgstr ":doc:`how-to-guides` - 以目標為導向的指引"
 
 #: ../../../application.rst:26
 msgid ":doc:`reference` - information-oriented technical description"
-msgstr ""
+msgstr ":doc:`reference` - 以資訊為導向的技術說明"
 
 #: ../../../application.rst:27
 msgid ":doc:`explanation` - understanding-oriented discussion"
-msgstr ""
+msgstr ":doc:`explanation` - 以理解為導向的討論"
 
 #: ../../../application.rst:29
 msgid ""
@@ -96,4 +96,4 @@ msgstr ""
 
 #: ../../../application.rst:32
 msgid ":doc:`Workflow <how-to-use-diataxis>` in Diátaxis"
-msgstr ""
+msgstr "Diátaxis 中的\\ :doc:`工作流程 <how-to-use-diataxis>`"

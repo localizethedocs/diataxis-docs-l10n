@@ -68,7 +68,7 @@ msgstr ""
 
 #: ../../../how-to-use-diataxis.rst:26
 msgid "Don't worry about structure"
-msgstr ""
+msgstr "別為結構感到煩惱"
 
 #: ../../../how-to-use-diataxis.rst:28
 msgid ""

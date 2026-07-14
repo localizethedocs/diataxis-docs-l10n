@@ -133,7 +133,7 @@ msgstr ""
 
 #: ../../../quality.rst:69
 msgid "What's the difference?"
-msgstr ""
+msgstr "有什麼區別？"
 
 #: ../../../quality.rst:71
 msgid ""
@@ -306,7 +306,7 @@ msgstr ""
 
 #: ../../../quality.rst:177
 msgid "Diátaxis and quality"
-msgstr ""
+msgstr "Diátaxis 與品質"
 
 #: ../../../quality.rst:179
 msgid ""

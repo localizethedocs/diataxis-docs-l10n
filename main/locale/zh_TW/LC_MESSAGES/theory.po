@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../../theory.rst:2
 msgid "Understanding Diátaxis"
-msgstr ""
+msgstr "理解 Diátaxis"
 
 #: ../../../theory.rst:6
 msgid "The Grand Unified Theory of Documentation"

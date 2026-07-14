@@ -134,7 +134,7 @@ msgstr ""
 
 #: ../../../start-here.rst:57
 msgid "Reference"
-msgstr ""
+msgstr "參考"
 
 #: ../../../start-here.rst:61
 msgid ":ref:`Reference in more detail <reference>`"

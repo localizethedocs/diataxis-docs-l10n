@@ -85,7 +85,7 @@ msgstr "Diátaxis 是一種看待與撰寫文件的思維與做法。"
 
 #: ../../../index.rst:26
 msgid ":doc:`Help translate Diátaxis <translation>` into your language."
-msgstr ":doc:`協助將 Diátaxis <translation> 翻譯`\\ 成您的語言。"
+msgstr ":doc:`協助將 Diátaxis 翻譯 <translation>`\\ 成您的語言。"
 
 #: ../../../index.rst:28
 msgid ""
@@ -179,7 +179,7 @@ msgstr ""
 
 #: ../../../index.rst:128
 msgid "`Megan Sullivan <https://hachyderm.io/@meganesulli>`_"
-msgstr ""
+msgstr "`Megan Sullivan <https://hachyderm.io/@meganesulli>`_"
 
 #: ../../../index.rst:133
 msgid ""
@@ -192,4 +192,4 @@ msgstr ""
 
 #: ../../../index.rst:135
 msgid "`Adam Schwartz <https://github.com/adamschwartz>`_"
-msgstr ""
+msgstr "`Adam Schwartz <https://github.com/adamschwartz>`_"

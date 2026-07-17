@@ -1,5 +1,5 @@
 <div align="center">
-<h1 id="localization-of-the-diataxis-documentation-framework">Localization of The Diátaxis Documentation Framework</h1>
+<h1 id="localization-of-the-diataxis-documentation-framework">Unofficial localization of The Diátaxis Documentation Framework</h1>
 </div>
 
 <details><summary><strong>Switch Languages</strong></summary>
@@ -10,6 +10,8 @@
   <li><a href="./README.zh_TW.md"><code>zh_TW</code> : 繁體中文</a></li>
 </ul>
 </details>
+
+<p>This is an unofficial, unasked-for and unwanted translation initiative. If you are interested in translation of Diátaxis, see https://diataxis.fr/translation/.</p>
 
 <h2 id="table-of-contents">Table of Contents</h2>
 

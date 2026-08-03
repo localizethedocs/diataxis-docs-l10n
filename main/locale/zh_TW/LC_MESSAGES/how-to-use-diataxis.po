@@ -37,6 +37,10 @@ msgid ""
 "documentation to find themselves responsible for improving or even "
 "remediating a body of work."
 msgstr ""
+"大多數從事技術文件撰寫工作的人，必須在工作過程中就如何工作做出決定。在某些情"
+"境下，文件必須一次性交付，且為完整的最終版本，但較常見的是文件為持續進行的專"
+"案，例如與自身會演進與發展的產品同步開發。許多從事文件撰寫工作的人也常有這樣"
+"的經驗：被指派負責改善或甚至修補既有文件內容。"
 
 #: ../../../how-to-use-diataxis.rst:10
 msgid ""
@@ -75,6 +79,8 @@ msgid ""
 "Although structure is key to documentation, **using Diátaxis means not "
 "spending energy trying to get its structure correct**."
 msgstr ""
+"雖然結構對文件至關重要，\\ **但使用 Diátaxis 並不代表要花費精力去追求結構上的"
+"完美無缺**\\ 。"
 
 #: ../../../how-to-use-diataxis.rst:31
 msgid ""
@@ -105,7 +111,7 @@ msgstr ""
 
 #: ../../../how-to-use-diataxis.rst:45
 msgid "Work one step at a time"
-msgstr ""
+msgstr "一次進行一步"
 
 #: ../../../how-to-use-diataxis.rst:47
 msgid ""

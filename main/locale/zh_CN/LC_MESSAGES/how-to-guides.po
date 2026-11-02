@@ -168,8 +168,8 @@ msgstr ""
 msgid ""
 "**How-to guides are wholly distinct from tutorials**. They are often "
 "confused, but the user needs that they serve are quite different. Conflating "
-"them is at the root of many difficulties that afflict documentation. See :"
-"ref:`tutorials-how-to` for a discussion of this distinction."
+"them is at the root of many difficulties that afflict documentation. "
+"See :ref:`tutorials-how-to` for a discussion of this distinction."
 msgstr ""
 
 #: ../../../how-to-guides.rst:71

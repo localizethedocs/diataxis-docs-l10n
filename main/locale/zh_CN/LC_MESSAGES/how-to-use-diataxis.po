@@ -169,9 +169,9 @@ msgstr ""
 
 #: ../../../how-to-use-diataxis.rst:78
 msgid ""
-"**Do it**. Complete that next single action, *and consider it completed* - i."
-"e. publish it, or at least commit the change. Don't feel that you need to do "
-"anything else to make a worthy improvement."
+"**Do it**. Complete that next single action, *and consider it completed* - "
+"i.e. publish it, or at least commit the change. Don't feel that you need to "
+"do anything else to make a worthy improvement."
 msgstr ""
 
 #: ../../../how-to-use-diataxis.rst:81

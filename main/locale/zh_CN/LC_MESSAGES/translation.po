@@ -41,8 +41,8 @@ msgstr ""
 
 #: ../../../translation.rst:10
 msgid ""
-"As soon as a translation is complete, I will publish it on https://diataxis."
-"fr."
+"As soon as a translation is complete, I will publish it on https://"
+"diataxis.fr."
 msgstr ""
 
 #: ../../../translation.rst:12

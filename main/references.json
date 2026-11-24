@@ -37,9 +37,9 @@
     "branch" : "main",
     "commit" : 
     {
-      "date" : "2026-07-10 08:49:01 +0200",
-      "hash" : "855e9c13955386fdd4a0131bf664d3390dd79f34",
-      "title" : "Added translation notice"
+      "date" : "2026-08-01 13:54:03 +0200",
+      "hash" : "0c9022ecbd82f8cd42069886faae40cd91eb8995",
+      "title" : "Merge branch 'main' of github.com:evildmp/diataxis-documentation-framework"
     }
   },
   "type" : "branch",

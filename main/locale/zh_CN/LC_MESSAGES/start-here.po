@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis main\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-13 19:20+0000\n"
+"POT-Creation-Date: 2026-08-03 12:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -270,7 +270,7 @@ msgstr ""
 
 #: ../../../start-here.rst:121
 msgid ""
-"tutorials and explanation serve the *acquistion* of skill (the user's "
+"tutorials and explanation serve the *acquisition* of skill (the user's "
 "**study**)"
 msgstr ""
 
